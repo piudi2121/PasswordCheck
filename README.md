@@ -50,4 +50,8 @@ http://127.0.0.1:8000/docs
 /check/<password:str>
 ```
 
+## Rascunho
+
+<img width="1352" height="700" alt="Captura de tela 2026-02-10 014351" src="https://github.com/user-attachments/assets/9a0b779c-360b-4bb3-9d50-58755ae2431c" />
+
 ---
